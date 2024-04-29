@@ -16,5 +16,5 @@ My project aims to create a waste-management system using python and physical ha
 # Connections 
 // wip
 
-# Gui Mockup
+# GUI Mockup
 // wip
