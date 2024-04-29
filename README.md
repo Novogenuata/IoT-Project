@@ -5,13 +5,13 @@ My project aims to create a waste-management system using python and physical ha
 
 
 # Physical Components
-1: Breadboard + Jumper Wires
-2: Raspberry Pi (Model B)
-3: GPIO Extension Board + Wires
-4: Ultrasonic Sensor
-5: LEDS
-6: Passive / Active Buzzer
-7: Red and Blue Buttons
+- Breadboard + Jumper Wires
+- Raspberry Pi (Model B)
+- GPIO Extension Board + Wires
+- Ultrasonic Sensor
+- LEDS
+- Passive / Active Buzzer
+- Red and Blue Buttons
 
 # Connections 
 // wip
