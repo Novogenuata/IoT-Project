@@ -12,6 +12,7 @@ My project aims to create a waste-management system using python and physical ha
 - LEDS
 - Passive / Active Buzzer
 - Red and Blue Buttons
+- Some sort of container
 
 # Connections 
 // wip
