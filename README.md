@@ -17,7 +17,7 @@ This project aims to create a waste-management system using python and physical 
 - Ultrasonic Sensor
 - ![image](https://github.com/Novogenuata/IoT-Project/assets/159738542/adef517f-ad9d-448f-b792-21724dee5604)
 
-- LEDS
+- LEDS (green and red)
 - ![image](https://github.com/Novogenuata/IoT-Project/assets/159738542/d7a6e729-ecff-44e4-98b2-a6e40169c325)
 
 - Passive / Active Buzzer
@@ -30,7 +30,7 @@ This project aims to create a waste-management system using python and physical 
 
 
 # Connections 
-// wip
+
 
 # GUI Mockup
-// wip
+![image](https://github.com/Novogenuata/IoT-Project/assets/159738542/d7821bef-a40a-4484-a524-bc64002a8de1)
