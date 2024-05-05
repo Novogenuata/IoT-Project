@@ -25,12 +25,14 @@ This project aims to create a waste-management system using python and physical 
 
 - Red and Blue Buttons
 - ![image](https://github.com/Novogenuata/IoT-Project/assets/159738542/e066bc4b-2b44-42f9-a1a2-5b66836b1bfc)
-- 1602A display
-- ![image](https://github.com/Novogenuata/IoT-Project/assets/159738542/30f32beb-b1f8-4a80-af8f-f634dca1144f)
+- LED bar module
+![image](https://github.com/Novogenuata/IoT-Project/assets/159738542/580b72c2-0f3c-4e42-b9f6-02864acc4e92)
+
 
 
 # Connections 
-![image](https://github.com/Novogenuata/IoT-Project/assets/159738542/26eea858-f92f-4175-8183-d97937924b0f)
+![image](https://github.com/Novogenuata/IoT-Project/assets/159738542/9c85052d-746a-4f26-8e82-649b33d41983)
+
 
 
 
