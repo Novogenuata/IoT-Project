@@ -1,5 +1,5 @@
 # IoT-Project
-Waste management system using a Raspberry Pi by Sigourney Wamback
+Waste management system using a Raspberry Pi by Sigourney W.
 ______________________________________________
 This project aims to create a waste-management system using python and physical hardware components. It measures trash levels collected in garbage cans, has a graphical user interface using Tkinter, and has a basic security system made from a simple button combination.
 
