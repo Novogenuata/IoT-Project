@@ -43,5 +43,9 @@ This project aims to create a waste-management system using python and physical 
 ___________________________________________________________
 
 # User Manual 
+The GUI
+![image](https://github.com/Novogenuata/IoT-Project/assets/159738542/c5cbe5cc-b0e4-49ae-8038-be254d4e4577)
 
-wip 
+
+
+
