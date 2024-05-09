@@ -48,10 +48,18 @@ A document to showcase how the system works, and documents a few workarounds to 
 ![image](https://github.com/Novogenuata/IoT-Project/assets/159738542/c5cbe5cc-b0e4-49ae-8038-be254d4e4577)
 
 # The Threshold Entry
-![image](https://github.com/Novogenuata/IoT-Project/assets/159738542/55040e9d-50c3-40aa-b02e-92cee7b34196)
+- ![image](https://github.com/Novogenuata/IoT-Project/assets/159738542/55040e9d-50c3-40aa-b02e-92cee7b34196)
 - The user will enter the threshold they have in mind
 - If the container's fullness is above or equal to the threshold, a message will appear notifying the user to empty the container.
 - ![image](https://github.com/Novogenuata/IoT-Project/assets/159738542/4ea3c2a1-3589-4be0-93ef-314b50901759)
+# The Lid + Container Depth Entries
+- ![image](https://github.com/Novogenuata/IoT-Project/assets/159738542/462a7187-c4d2-4be3-80d7-735287e6d906)
+- At the fault of my distance sensor being incredibly erratic (despite resting still on my container, the distance would fluctuate by +- 2 cm and sometimes spike!) I implemented this functionality so I could change it at will.
+- The user will look at the current distance indicated (when their distance sensor is placed on a lid) and write down the depth in the respective entry area
+- ![image](https://github.com/Novogenuata/IoT-Project/assets/159738542/038fb64e-612a-48d7-8ef4-dd2692492478)
+- Once the user enters the depth, they will then calculate the lid height for the security system
+
+
 
 
 
