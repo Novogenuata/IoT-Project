@@ -43,9 +43,15 @@ This project aims to create a waste-management system using python and physical 
 ___________________________________________________________
 
 # User Manual 
-The GUI
+A document to showcase how the system works, and documents a few workarounds to some problems I had.
+# The GUI
 ![image](https://github.com/Novogenuata/IoT-Project/assets/159738542/c5cbe5cc-b0e4-49ae-8038-be254d4e4577)
 
+# The Threshold Entry
+![image](https://github.com/Novogenuata/IoT-Project/assets/159738542/55040e9d-50c3-40aa-b02e-92cee7b34196)
+- The user will enter the threshold they have in mind
+- If the container's fullness is above or equal to the threshold, a message will appear notifying the user to empty the container.
+- ![image](https://github.com/Novogenuata/IoT-Project/assets/159738542/4ea3c2a1-3589-4be0-93ef-314b50901759)
 
 
 
