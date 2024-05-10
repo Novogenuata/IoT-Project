@@ -66,8 +66,17 @@ A document to showcase how the system works, and documents a few workarounds to 
 - ![image](https://github.com/Novogenuata/IoT-Project/assets/159738542/2914aa6f-88d1-4fc8-a82f-d5659d0ca939)
 - A demo of the user pressing 2 red buttons.
 - ![image](https://github.com/Novogenuata/IoT-Project/assets/159738542/958c18ca-e60a-4ba2-9284-d71a299a97a9)
-- If the user enters the wrong combo, this screen will show and a red light will turn on for 1 second. (Although it is not very secure, the user is allowed to try again as many times as they see fit)
+- If the user enters the wrong combo, this screen will display and a red light will turn on for 1 second. (Although it is not very secure, the user is allowed to try again as many times as they see fit)
 - ![image](https://github.com/Novogenuata/IoT-Project/assets/159738542/f38713f4-d3f3-40b8-90b8-f67b41219a85)
+- If the user takes the lid off while the system is locked, a warning message will appear within the groove and a buzzer will sound until the lid is placed back on the container.
+- ![image](https://github.com/Novogenuata/IoT-Project/assets/159738542/0d07e770-3f1d-4e7c-a4cf-f505a13eae8c)
+
+- If the user enters the right combo { BLUE - RED - BLUE } this screen will display and a blue/green light will turn on for 1 second.
+- ![image](https://github.com/Novogenuata/IoT-Project/assets/159738542/c6899fa0-c8e4-4f78-a1b7-ec8164929da9)
+- The "Unlock" button will be greyed out until the user presses the "lock" button. The user is allowed to take the lid off as they please.
+- ![image](https://github.com/Novogenuata/IoT-Project/assets/159738542/17984768-0607-4439-a25b-8165ba87707f)
+
+
 
   
  
